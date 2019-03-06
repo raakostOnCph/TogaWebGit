@@ -12,6 +12,8 @@ public class Kunde {
         this.navn = navn;
     }
 
+
+
     public int getKundenr() {
         return kundeId;
     }
